@@ -1,4 +1,4 @@
-# SIEM-WITH-CHATGPT
+# SIEM INTEGRATED WITH CHATGPT
 # MICROSOFT SENTINAL
 
 Microsoft Sentinel is a scalable, cloud-native security information and event management (SIEM) that delivers an intelligent and comprehensive solution for SIEM and security orchestration, automation, and response (SOAR). Microsoft Sentinel provides cyberthreat detection, investigation, response, and proactive hunting, with a bird's-eye view across your enterprise.
